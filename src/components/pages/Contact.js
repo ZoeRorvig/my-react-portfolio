@@ -5,6 +5,10 @@ export default function Contact() {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
 
+    // TODO: Add email verification
+    // TODO: Add message is nothing is entered into box when clicked off. 
+    // TODO: Fix formatting
+
     const handleInputChange = (e) => {
         const { name, value } = e.target;
 

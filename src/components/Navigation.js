@@ -30,7 +30,7 @@ function Navigation({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
-      {/* <li className="nav-item">
+      <li className="nav-item">
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
@@ -38,7 +38,7 @@ function Navigation({ currentPage, handlePageChange }) {
         >
           Resume
         </a>
-      </li> */}
+      </li>
     </ul>
   );
 }
