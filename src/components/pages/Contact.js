@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
+import { validateEmail } from '../../utils/helpers';
 
 export default function Contact() {
     const [fullName, setName] = useState('');
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
+    const [errorMessage, setErrorMessage] = useState('');
 
     // TODO: Add email verification
     // TODO: Add message is nothing is entered into box when clicked off. 
@@ -19,6 +21,16 @@ export default function Contact() {
         } else if (name === "message") {
             setMessage(value);
         }
+
+        if (name === "email") {
+            const validEmail = validateEmail(value);
+            console.log(validEmail);
+            if (!validEmail) {
+                setErrorMessage('Please enter a valid email.');
+            } else {
+                setErrorMessage('');
+            }
+        }
     };
 
     const handleFormSubmit = (e) => {
@@ -27,6 +39,7 @@ export default function Contact() {
         setName('');
         setEmail('');
         setMessage('');
+        setErrorMessage('');
     };
 
     return (
@@ -59,6 +72,7 @@ export default function Contact() {
                     Submit
                 </button>
             </form>
+            <p>{errorMessage}</p>
         </div>
     );
 }
