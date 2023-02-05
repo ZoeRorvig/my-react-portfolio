@@ -31,9 +31,8 @@ export default function Contact() {
 
     return (
         <div>
-            <p>
-                Hello {fullName}
-            </p>
+            <h2>Contact Me</h2>
+
             <form className="form">
                 <input
                     value={fullName}
