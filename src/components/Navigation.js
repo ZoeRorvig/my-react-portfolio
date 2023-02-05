@@ -12,7 +12,7 @@ function Navigation({ currentPage, handlePageChange }) {
           About Me
         </a>
       </li>
-      {/* <li className="nav-item">
+      <li className="nav-item">
         <a
           href="#portfolio"
           onClick={() => handlePageChange('Portfolio')}
@@ -20,7 +20,7 @@ function Navigation({ currentPage, handlePageChange }) {
         >
           Portfolio
         </a>
-      </li> */}
+      </li>
       <li className="nav-item">
         <a
           href="#contact"
