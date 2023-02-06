@@ -7,7 +7,6 @@ export default function Contact() {
     const [message, setMessage] = useState('');
     const [errorMessage, setErrorMessage] = useState('');
 
-    // TODO: Add email verification
     // TODO: Add message is nothing is entered into box when clicked off. 
     // TODO: Fix formatting
 
