@@ -4,7 +4,7 @@ export default function Project(props) {
     return (
         <section>
             {props.projects.map((project) => (
-                <div>
+                <div className='project'>
                     <h3>{project.title}</h3>
                     <img src={project.image} alt={project.title}/>
                     <a href={project.deployed} target="_blank" rel="noreferrer">Deployed Link</a>

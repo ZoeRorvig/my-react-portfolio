@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className='pages'>
+      <h2>About Page</h2>
       
       <p>
         Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
@@ -13,7 +13,7 @@ export default function About() {
         imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
         in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
       </p>
-      <img src='https://via.placeholder.com/150' alt='Profile Picture'/>
+      <img src='https://via.placeholder.com/150' alt='Zoe Rorvig'/>
     </div>
   );
 }
