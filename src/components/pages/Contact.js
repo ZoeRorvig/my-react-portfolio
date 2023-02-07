@@ -10,6 +10,21 @@ export default function Contact() {
     // TODO: Add message is nothing is entered into box when clicked off. 
     // TODO: Fix formatting
 
+    const handleBlur = (e) => {
+        const { name, value } = e.target;
+        if (!value) {
+            if (name === "fullName") {
+                setErrorMessage('Name input is required!');
+            } else if (name === "email") {
+                setErrorMessage('Email input is required!');
+            } else if (name === "message") {
+                setErrorMessage('Message input is required!');
+            }
+        } else {
+            setErrorMessage('');
+        }
+    };
+
     const handleInputChange = (e) => {
         const { name, value } = e.target;
 
@@ -45,11 +60,14 @@ export default function Contact() {
         <div className='pages'>
             <h2>Contact Me</h2>
 
+            <p>Email: zoerorvig@email.com</p>
+            
             <form className="form">
                 <input
                     value={fullName}
                     name="fullName"
                     onChange={handleInputChange}
+                    onBlur={handleBlur}
                     type="text"
                     placeholder="Full Name"
                 />
@@ -57,6 +75,7 @@ export default function Contact() {
                     value={email}
                     name="email"
                     onChange={handleInputChange}
+                    onBlur={handleBlur}
                     type="text"
                     placeholder="Email"
                 />
@@ -64,6 +83,7 @@ export default function Contact() {
                     value={message}
                     name="message"
                     onChange={handleInputChange}
+                    onBlur={handleBlur}
                     type="text"
                     placeholder="Message"
                 />

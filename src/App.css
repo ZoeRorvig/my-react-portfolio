@@ -49,6 +49,11 @@ form {
     padding: 10px;
 }
 
+.portfolio {
+    display: flex;
+    flex-direction: row;
+}
+
 footer {
     display: flex;
     align-content: center;
@@ -78,4 +83,12 @@ footer ul li {
     color: #ffffff;
     text-decoration: none;
     padding-right: 25px;
+}
+
+img {
+    border: 1px solid black;
+}
+
+.resume {
+    margin-bottom: 50px;
 }
