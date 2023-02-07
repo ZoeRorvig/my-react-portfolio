@@ -1,6 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-direction: column;
     background-image: url("./images/flowers.jpg");
     background-size: contain;
@@ -11,14 +12,10 @@ header {
 }
 
 h1 {
-    font-size: 50;
+    font-size: 50px;
     font-family: Gabriola, sans-serif;
     margin: 20px;
     padding-top: 20px;
-}
-
-nav {
-    margin-left: 10px;
 }
 
 body {
@@ -27,6 +24,9 @@ body {
 }
 
 .pages {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     padding: 20px;
 }
 
