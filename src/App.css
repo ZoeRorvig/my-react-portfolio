@@ -48,10 +48,6 @@ form {
     padding: 10px;
 }
 
-/* .portfolio {
-    display: flex;
-    flex-direction: row;
-} */
 
 footer {
     display: flex;
@@ -105,6 +101,18 @@ footer ul li {
 .resume:hover{
     opacity: 0.60;
     border: 2px dotted rgb(74, 177, 241);
+}
+
+.proficienciesList {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+.proficienciesList li {
+    padding: 10px;
 }
 
 .profile-picture {
