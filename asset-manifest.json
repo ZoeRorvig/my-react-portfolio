@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.27d22843.css",
-    "main.js": "/my-react-portfolio/static/js/main.f49584be.js",
+    "main.js": "/my-react-portfolio/static/js/main.4348416e.js",
+    "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.5984e6306ce1d05b4e9f.jpg",
     "static/media/sellout.png": "/my-react-portfolio/static/media/sellout.e367514b5d1b59d566cd.png",
-    "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.9200c2f327a5d8b0f969.jpg",
     "static/media/second-profile.jpg": "/my-react-portfolio/static/media/second-profile.7e56ce7687b0e91dd75f.jpg",
     "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.d033bc77ff03a3da9a68.jpg",
     "static/media/flowers.jpg": "/my-react-portfolio/static/media/flowers.810ca009679354f6a700.jpg",
@@ -12,10 +12,10 @@
     "static/media/dine-and-sip.png": "/my-react-portfolio/static/media/dine-and-sip.f652dae778c5812639e8.png",
     "index.html": "/my-react-portfolio/index.html",
     "main.27d22843.css.map": "/my-react-portfolio/static/css/main.27d22843.css.map",
-    "main.f49584be.js.map": "/my-react-portfolio/static/js/main.f49584be.js.map"
+    "main.4348416e.js.map": "/my-react-portfolio/static/js/main.4348416e.js.map"
   },
   "entrypoints": [
     "static/css/main.27d22843.css",
-    "static/js/main.f49584be.js"
+    "static/js/main.4348416e.js"
   ]
 }
