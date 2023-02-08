@@ -48,10 +48,10 @@ form {
     padding: 10px;
 }
 
-.portfolio {
+/* .portfolio {
     display: flex;
     flex-direction: row;
-}
+} */
 
 footer {
     display: flex;
@@ -84,8 +84,18 @@ footer ul li {
     padding-right: 25px;
 }
 
-img {
+.projectImage {
     border: 1px solid black;
+}
+
+.projectLinks {
+    margin: 10px 10px 5px 0px;
+    padding: 10px;
+    background-color: rgb(108, 108, 169);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkblue;
 }
 
 .resume {

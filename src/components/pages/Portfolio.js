@@ -20,14 +20,14 @@ const projects = [
         title: 'Dine and Sip',
         image: dineAndSip,
         repo: 'https://github.com/ZoeRorvig/food-and-drink-pairings',
-        deployed: 'hhttps://zoerorvig.github.io/food-and-drink-pairings/',
+        deployed: 'https://zoerorvig.github.io/food-and-drink-pairings/',
     },
     {
         id: 2,
         title: 'Weather Dashboard',
         image: weatherDash,
         repo: 'https://github.com/ZoeRorvig/weather-dashboard',
-        deployed: 'hhttps://zoerorvig.github.io/weather-dashboard/',
+        deployed: 'https://zoerorvig.github.io/weather-dashboard/',
     },
     {
         id: 3,
