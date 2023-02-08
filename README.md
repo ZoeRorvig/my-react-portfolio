@@ -9,7 +9,13 @@
 This portfolio was created with REACT to display completed projects, about me information, and contact information.  
 
 Features Include:
-- [TEXT]
+- Navigation tabs that move the site through different pages and stay highlighted on the current page. 
+- About Me section featuring information about the creator and profile pictures. 
+- Portfolio section featuring six sample projects, including a link to the deployed application and the GiHub repository. 
+- Contact section featuring a contact email and form to contact the creator. 
+- Form inputs are required and form includes multiple verifications.
+- Resume section featuring a screenshot of the resume that is linked to a downloadable copy. This section also includes a list of proficiencies. 
+- Footer section featuring linked icons to linkedIn, GitHub, and Instagram profiles. 
 
 ## Visuals 
 
