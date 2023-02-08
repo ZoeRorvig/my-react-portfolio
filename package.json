@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://zoerorvig.github.io/my-react-portfolio",
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^13.5.0",

@@ -58,6 +58,6 @@ export default function Portfolio() {
         <h2>Portfolio</h2>
 
         <Project projects={projects} />
-    </div>
+        </div>
   );
 }
