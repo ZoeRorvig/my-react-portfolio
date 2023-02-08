@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.0c36b13e.css",
+    "main.css": "/my-react-portfolio/static/css/main.7f2c8033.css",
     "main.js": "/my-react-portfolio/static/js/main.39220348.js",
     "static/media/sellout.png": "/my-react-portfolio/static/media/sellout.e367514b5d1b59d566cd.png",
     "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.9200c2f327a5d8b0f969.jpg",
     "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.dff753e10da34c15e92c.jpg",
-    "static/media/flowers.jpg": "/my-react-portfolio/static/media/flowers.e669e3147b9598eeb361.jpg",
+    "static/media/flowers.jpg": "/my-react-portfolio/static/media/flowers.810ca009679354f6a700.jpg",
     "static/media/weather-dash.png": "/my-react-portfolio/static/media/weather-dash.bc9a4ee310c35f26feb9.png",
     "static/media/password-gen.png": "/my-react-portfolio/static/media/password-gen.74b5377b3764826a1065.png",
     "static/media/dine-and-sip.png": "/my-react-portfolio/static/media/dine-and-sip.f652dae778c5812639e8.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.0c36b13e.css.map": "/my-react-portfolio/static/css/main.0c36b13e.css.map",
+    "main.7f2c8033.css.map": "/my-react-portfolio/static/css/main.7f2c8033.css.map",
     "main.39220348.js.map": "/my-react-portfolio/static/js/main.39220348.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c36b13e.css",
+    "static/css/main.7f2c8033.css",
     "static/js/main.39220348.js"
   ]
 }
