@@ -6,7 +6,7 @@ export default function Header({ currentPage, handlePageChange }) {
   return (
     <header>
       <div>
-        <h1>Zoe Rorvig</h1>
+        <h1 style={{ fontSize: 55 }}>Zoë Rorvig</h1>
       </div>
         <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
     </header>

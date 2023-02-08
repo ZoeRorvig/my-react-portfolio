@@ -7,9 +7,6 @@ export default function Contact() {
     const [message, setMessage] = useState('');
     const [errorMessage, setErrorMessage] = useState('');
 
-    // TODO: Add message is nothing is entered into box when clicked off. 
-    // TODO: Fix formatting
-
     const handleBlur = (e) => {
         const { name, value } = e.target;
         if (!value) {
@@ -70,6 +67,7 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Full Name"
+                    className='inputArea'
                 />
                 <input
                     value={email}
@@ -78,6 +76,7 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Email"
+                    className='inputArea'
                 />
                 <textarea
                     value={message}
@@ -86,6 +85,7 @@ export default function Contact() {
                     onBlur={handleBlur}
                     type="text"
                     placeholder="Message"
+                    className='inputArea'
                 />
                 <button type="button" onClick={handleFormSubmit}>
                     Submit
