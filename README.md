@@ -1,10 +1,8 @@
 # My React Profile
-
-# Social Network API
+[Deployed Application](https://zoerorvig.github.io/my-react-portfolio/#about)
 
 ## Table of Contents
 - [Description](#description)
-- [Instructions](#instructions)
 - [Visuals](#visuals)
 
 ## Description 
@@ -13,11 +11,20 @@ This portfolio was created with REACT to display completed projects, about me in
 Features Include:
 - [TEXT]
 
-## Instructions
-- [TEXT]
-
 ## Visuals 
 
-The following is a screenshot of GET ALL USERS:
+The following is a screenshot of the About Me page:
 
-![screenshot](#)
+![screenshot](./images/about-me-page.PNG)
+
+The following is a screenshot of the Portfolio page:
+
+![screenshot](./images/portfolio-page.png)
+
+The following is a screenshot of the Contact page:
+
+![screenshot](./images/contact-page.png)
+
+The following is a screenshot of the Resume page:
+
+![screenshot](./images/resume-page.png)
