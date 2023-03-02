@@ -28,7 +28,7 @@ export default function PortfolioContainer() {
         <body>
             <Header currentPage={currentPage} handlePageChange={handlePageChange} />
             {renderPage()}
-            <Footer handlePageChange={handlePageChange} />
+            <Footer />
         </body>
     );
 }
