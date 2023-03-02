@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.585fd1a4.css",
+    "main.css": "/my-react-portfolio/static/css/main.be618ed1.css",
     "main.js": "/my-react-portfolio/static/js/main.fd60bd70.js",
     "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.5984e6306ce1d05b4e9f.jpg",
     "static/media/sellout.png": "/my-react-portfolio/static/media/sellout.e367514b5d1b59d566cd.png",
@@ -11,11 +11,11 @@
     "static/media/password-gen.png": "/my-react-portfolio/static/media/password-gen.74b5377b3764826a1065.png",
     "static/media/dine-and-sip.png": "/my-react-portfolio/static/media/dine-and-sip.f652dae778c5812639e8.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.585fd1a4.css.map": "/my-react-portfolio/static/css/main.585fd1a4.css.map",
+    "main.be618ed1.css.map": "/my-react-portfolio/static/css/main.be618ed1.css.map",
     "main.fd60bd70.js.map": "/my-react-portfolio/static/js/main.fd60bd70.js.map"
   },
   "entrypoints": [
-    "static/css/main.585fd1a4.css",
+    "static/css/main.be618ed1.css",
     "static/js/main.fd60bd70.js"
   ]
 }
