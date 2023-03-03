@@ -13,9 +13,6 @@ export default function Footer() {
                 <li>
                     <a href='https://github.com/ZoeRorvig' target='_blank' rel='noreferrer' className='footer-links'><SiGithub /></a>
                 </li>
-                <li>
-                    <a href='https://www.instagram.com/mightyzorvig/' target='_blank' rel='noreferrer' className='footer-links'><SiInstagram /></a>
-                </li>
             </ul>
         </footer>
     );
