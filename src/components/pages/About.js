@@ -20,9 +20,6 @@ export default function About() {
           <div className='col-3'>
             <img src={profilePicture} alt='Zoe Rorvig' className='profile-picture' />
           </div>
-          {/* <div className='col-3'>
-            <img src={secondProfile} alt='Zoe Rorvig with Koala' className='profile-picture' />
-          </div> */}
         </div>
       </div>
     </div>
