@@ -1,14 +1,13 @@
 import React from 'react';
 import profilePicture from '../../images/profile-picture.jpg';
-import secondProfile from '../../images/second-profile.jpg';
 
 export default function About() {
   return (
     <div className='pages'>
       <h2>About Me</h2>
-      <div className='container'>
+      <div className='aboutContainer'>
         <div className='row'>
-          <div className='col-6'>
+          <div className='col-sm-6 col-12'>
             <p>
               Hello! My name is Zoë Rorvig. I graduated from UNC Asheville/NC State with a Bachelors of Science in Engineering,
               concentrated in Mechatronics, with a minor in Mathematics. Since I graduated, I've worked at Continental as a Quality
@@ -17,7 +16,7 @@ export default function About() {
               aspects of the programs/websites I used while at Continental and look forward to learning more.
             </p>
           </div>
-          <div className='col-3'>
+          <div className='col-sm-6 col-12'>
             <img src={profilePicture} alt='Zoe Rorvig' className='profile-picture' />
           </div>
         </div>
