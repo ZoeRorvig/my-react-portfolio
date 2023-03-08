@@ -14,6 +14,8 @@ const projects = [
         image: sellout,
         repo: 'https://github.com/ZoeRorvig/market-application',
         deployed: 'https://dry-tor-88754.herokuapp.com/',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
     {
         id: 1,
@@ -21,6 +23,8 @@ const projects = [
         image: dineAndSip,
         repo: 'https://github.com/ZoeRorvig/food-and-drink-pairings',
         deployed: 'https://zoerorvig.github.io/food-and-drink-pairings/',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
     {
         id: 2,
@@ -28,6 +32,8 @@ const projects = [
         image: weatherDash,
         repo: 'https://github.com/ZoeRorvig/weather-dashboard',
         deployed: 'https://zoerorvig.github.io/weather-dashboard/',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
     {
         id: 3,
@@ -35,6 +41,8 @@ const projects = [
         image: noteTaker,
         repo: 'https://github.com/ZoeRorvig/note-taker',
         deployed: 'https://rocky-oasis-67925.herokuapp.com/notes',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
     {
         id: 4,
@@ -42,6 +50,8 @@ const projects = [
         image: techBlog,
         repo: 'https://github.com/ZoeRorvig/tech-blog',
         deployed: 'https://mysterious-badlands-96027.herokuapp.com/',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
     {
         id: 5,
@@ -49,6 +59,8 @@ const projects = [
         image: passwordGen,
         repo: 'https://github.com/ZoeRorvig/password-generator',
         deployed: 'https://zoerorvig.github.io/password-generator/',
+        summary: 'This is a summary',
+        tech: 'This is tech',
     },
 ];
 
