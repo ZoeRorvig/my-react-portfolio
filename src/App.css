@@ -126,6 +126,7 @@ footer ul li {
 
 .imgContainer:hover .imageOverlay{
     opacity: 1;
+    color: black;
 }
 
 .projectLinks {

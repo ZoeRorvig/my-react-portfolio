@@ -13,7 +13,7 @@ export default function Project(props) {
                     <div className='imgContainer'>
                     <a href={project.deployed} target="_blank" rel="noreferrer">
                         <img src={project.image} alt={project.title} className='projectImage'/>
-                        <p className='imageOverlay'>Image OVerlay</p>
+                        <p className='imageOverlay'>Click Here for Deployed Project</p>
                     </a>
                     </div>
                     {/* <div className='d-flex align-items-center justify-content-center'>
