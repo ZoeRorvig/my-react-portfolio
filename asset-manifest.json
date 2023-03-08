@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.d30443a4.css",
-    "main.js": "/my-react-portfolio/static/js/main.493c1a1e.js",
+    "main.css": "/my-react-portfolio/static/css/main.6220b294.css",
+    "main.js": "/my-react-portfolio/static/js/main.56cabedb.js",
     "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.5984e6306ce1d05b4e9f.jpg",
     "static/media/sellout.png": "/my-react-portfolio/static/media/sellout.e367514b5d1b59d566cd.png",
-    "static/media/second-profile.jpg": "/my-react-portfolio/static/media/second-profile.7e56ce7687b0e91dd75f.jpg",
-    "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.d033bc77ff03a3da9a68.jpg",
+    "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.44c39fcdf2b3bcad79fd.jpg",
     "static/media/flowers.jpg": "/my-react-portfolio/static/media/flowers.810ca009679354f6a700.jpg",
     "static/media/weather-dash.png": "/my-react-portfolio/static/media/weather-dash.bc9a4ee310c35f26feb9.png",
     "static/media/password-gen.png": "/my-react-portfolio/static/media/password-gen.74b5377b3764826a1065.png",
     "static/media/dine-and-sip.png": "/my-react-portfolio/static/media/dine-and-sip.f652dae778c5812639e8.png",
     "index.html": "/my-react-portfolio/index.html",
-    "main.d30443a4.css.map": "/my-react-portfolio/static/css/main.d30443a4.css.map",
-    "main.493c1a1e.js.map": "/my-react-portfolio/static/js/main.493c1a1e.js.map"
+    "main.6220b294.css.map": "/my-react-portfolio/static/css/main.6220b294.css.map",
+    "main.56cabedb.js.map": "/my-react-portfolio/static/js/main.56cabedb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d30443a4.css",
-    "static/js/main.493c1a1e.js"
+    "static/css/main.6220b294.css",
+    "static/js/main.56cabedb.js"
   ]
 }
