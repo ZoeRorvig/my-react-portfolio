@@ -1,5 +1,5 @@
 # My React Profile
-[Deployed Application](https://zoerorvig.github.io/my-react-portfolio/#about)
+[Deployed Application](https://zoerorvig.github.io/my-react-portfolio/)
 
 ## Table of Contents
 - [Description](#description)
