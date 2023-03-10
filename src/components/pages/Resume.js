@@ -12,7 +12,7 @@ export default function Resume() {
       <h2>Resume</h2>
 
       <p>Click On the Image Below to Download</p>
-      <a href='https://drive.google.com/file/d/1FnYTlR6--wjE2xxN6Sg5vsr0zpUvewsL/view?usp=sharing' target='_blank' rel='noreferrer'>
+      <a href='https://drive.google.com/file/d/1-IMW28WdrYb09HXuMg1i3tgTvzDrJSSU/view?usp=sharing' target='_blank' rel='noreferrer'>
         <img className='resume' src={resume} alt='resume' />
       </a>
         <h3>Proficiencies</h3>
