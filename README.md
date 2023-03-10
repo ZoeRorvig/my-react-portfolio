@@ -27,9 +27,6 @@ The following is a screenshot of the Portfolio page:
 
 ![screenshot](./images/portfolio-page.png)
 
-The following is a screenshot of the Contact page:
-
-![screenshot](./images/contact-page.png)
 
 The following is a screenshot of the Resume page:
 
