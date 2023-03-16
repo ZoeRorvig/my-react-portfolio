@@ -7,7 +7,7 @@ export default function Footer() {
         <footer>
             <ul>
                 <li>
-                <a href="mailto: zrorvig@gmail.com" className='footer-links'>zrorvig@gmail.com</a>
+                <a href="mailto: zrorvig@gmail.com" className='footer-links'>zoerorvig@gmail.com</a>
                 </li>
                 <li>
                     <a href='https://www.linkedin.com/in/zoerorvig/' target='_blank' rel='noreferrer' className='footer-links'><SiLinkedin /></a>
