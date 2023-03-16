@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.6220b294.css",
-    "main.js": "/my-react-portfolio/static/js/main.1954e321.js",
+    "main.js": "/my-react-portfolio/static/js/main.ea03d9d9.js",
     "static/media/profile-picture.jpg": "/my-react-portfolio/static/media/profile-picture.5984e6306ce1d05b4e9f.jpg",
     "static/media/sellout.png": "/my-react-portfolio/static/media/sellout.e367514b5d1b59d566cd.png",
     "static/media/melum.png": "/my-react-portfolio/static/media/melum.d475f87f1f8df3dfbcdf.png",
-    "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.29e8d6e70cf019f5a095.jpg",
+    "static/media/resume.jpg": "/my-react-portfolio/static/media/resume.fa9e15a3a9f16946b401.jpg",
     "static/media/flowers.jpg": "/my-react-portfolio/static/media/flowers.810ca009679354f6a700.jpg",
     "static/media/workdayScheduler.png": "/my-react-portfolio/static/media/workdayScheduler.ba47e77d76a1450ef691.png",
     "static/media/dine-and-sip.png": "/my-react-portfolio/static/media/dine-and-sip.f652dae778c5812639e8.png",
     "index.html": "/my-react-portfolio/index.html",
     "main.6220b294.css.map": "/my-react-portfolio/static/css/main.6220b294.css.map",
-    "main.1954e321.js.map": "/my-react-portfolio/static/js/main.1954e321.js.map"
+    "main.ea03d9d9.js.map": "/my-react-portfolio/static/js/main.ea03d9d9.js.map"
   },
   "entrypoints": [
     "static/css/main.6220b294.css",
-    "static/js/main.1954e321.js"
+    "static/js/main.ea03d9d9.js"
   ]
 }
